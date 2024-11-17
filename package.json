@@ -20,7 +20,7 @@
     "mkdirp": "*",
     "ncp": "*",
     "nopt": "*",
-    "proxyquire": "^2.0.0",
+    "proxyquire": "^2.1.3",
     "slide": "*"
   },
   "repository": {
@@ -78,8 +78,8 @@
     }
   ],
   "dependencies": {
-    "bindings": "~1.2.1",
-    "nan": "^2.14.0"
+    "bindings": "~1.5.0",
+    "nan": "^2.22.0"
   },
   "gypfile": true
 }
